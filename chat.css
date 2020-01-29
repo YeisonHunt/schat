@@ -1,0 +1,20 @@
+.five9-chat-button {
+    font-size: 24px !important;
+}
+
+#five9-popout-button {
+    float: right;
+}
+
+.fill-logo .ui-logo {
+    background-color: #F1F4F9 !important;
+}
+
+.provider, .provider:hover, .provider:focus, .provider-text {
+    cursor: default !important;
+    display: none !important;
+}
+
+.five9-text {
+    content: '' !important;
+}
