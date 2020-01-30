@@ -599,6 +599,9 @@ div.typing {
 
 /* Custom Siigo Desing */
 
-#five9-minimize-button {
-    background: linear-gradient(#00AAFF,#0088CC) !important;
+
+
+.five9-minimize-button.five9-chat-button {
+    background: #7AC23A !important;
+   
 }
