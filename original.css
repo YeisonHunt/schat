@@ -627,3 +627,8 @@ div.typing {
     cursor: default !important;
     display: none !important;
 }*/
+
+
+.mt4 {
+    margin-top: 3px !important;
+}
