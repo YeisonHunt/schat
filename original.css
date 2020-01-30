@@ -620,7 +620,7 @@ div.typing {
     position: relative;
     height: 38px;
     border: none;
-    border-radius: 10px 10px 0 0;
+    border-radius: 20px 20px 17px 17px;
     margin: 0;
     padding: 10px 12px 0 39px;
     background: #7AC23A !important;
@@ -629,6 +629,10 @@ div.typing {
     font-weight: normal;
     line-height: 1;
     cursor: pointer;
+}
+
+#five9-minimize-button > .five9-icon-siigo {
+    background-image: none !important;
 }
 
 /*.provider, .provider:hover, .provider:focus, .provider-text {

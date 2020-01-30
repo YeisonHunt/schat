@@ -1,0 +1,32 @@
+.five9-chat-button-siigo {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    display: inline-block;
+    position: relative;
+    height: 38px;
+    border: none;
+   border-radius: 20px 20px 17px 17px;
+    margin: 0;
+    padding: 10px 12px 0 39px;
+    background: #7AC23A !important;
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1;
+    cursor: pointer;
+}
+
+
+ .five9-icon-siigo {
+    display: inline-block;
+    position: absolute;
+    left: 6px;
+    top: 4px;
+    width: 34px;
+    height: 34px;
+    background-image: url('https://i.ibb.co/cwKXP5g/icono-5.png');
+    background-repeat: no-repeat;
+    background-size: 34px 34px;
+    background-position: center center;
+    margin-left: 1px;
+    padding: 0;
+}
