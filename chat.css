@@ -6,15 +6,19 @@
     float: right;
 }
 
-.fill-logo .ui-logo {
-    background-color: #F1F4F9 !important;
-}
+
 
 .provider, .provider:hover, .provider:focus, .provider-text {
     cursor: default !important;
     display: none !important;
 }
 
-.five9-text {
-    content: '' !important;
+
+
+.five9-minimize-button {
+    background: #7AC23A !important;
+}
+
+.five9-chat-button .five9-icon {
+    background-image: url(https://i.ibb.co/cwKXP5g/icono-5.png) !important;
 }
