@@ -303,7 +303,7 @@ body {
     margin-top:3px !important;
 }
 
-#five9-maximize-button > .five9-text {
+#five9-maximize-button > span > .five9-text {
     content: '' !important;
 }
 
