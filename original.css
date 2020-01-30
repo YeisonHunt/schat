@@ -605,3 +605,20 @@ div.typing {
     background: #7AC23A !important;
    
 }
+
+.five9-chat-button-siigo {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    display: inline-block;
+    position: relative;
+    height: 38px;
+    border: none;
+    border-radius: 10px 10px 0 0;
+    margin: 0;
+    padding: 10px 12px 0 39px;
+    background: #7AC23A !important;
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1;
+    cursor: pointer;
+}
