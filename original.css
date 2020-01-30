@@ -303,6 +303,10 @@ body {
     margin-top:3px !important;
 }
 
+#five9-maximize-button > .five9-text {
+    content: '' !important;
+}
+
 h1.ui-title {
     background: none;
     color: #fff !important
