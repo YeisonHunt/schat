@@ -350,7 +350,7 @@ select {
 
 .five9-action-btn {
     border: 1px solid #0088CC !important;
-    background-color: #00AAFF !important;
+    background-color: #288DC1 !important;
     color: #fff !important;
     font-size: 25px !important;
     line-height: .5
@@ -362,12 +362,12 @@ select {
 
 .five9-action-btn:focus:not(disabled) {
     outline: none;
-    box-shadow: 0 0 6px 0 #00AAFF !important
+    box-shadow: 0 0 6px 0 #288DC1 !important
 }
 
 .five9-accept-btn {
     border: 1px solid #0088CC !important;
-    background-color: #00AAFF !important;
+    background-color: #288DC1 !important;
     color: #fff !important
 }
 
@@ -377,7 +377,7 @@ select {
 
 .five9-accept-btn:focus:not(disabled) {
     outline: none;
-    box-shadow: 0 0 6px 0 #00AAFF !important
+    box-shadow: 0 0 6px 0 #288DC1 !important
 }
 
 .five9-confirm-btn {
@@ -408,7 +408,7 @@ select {
 
 .five9-cancel-btn:focus:not(disabled), .five9-aux-btn:focus:not(disabled) {
     outline: none;
-    box-shadow: 0 0 6px 0 #00AAFF !important
+    box-shadow: 0 0 6px 0 #288DC1 !important
 }
 
 .five9-left-btn, .five9-right-btn {
@@ -425,7 +425,7 @@ select {
 }
 
 .five9-link-btn {
-    color: #00AAFF !important
+    color: #288DC1 !important
 }
 
 .form-control input {
@@ -452,11 +452,11 @@ div.message-container-agent div.message-container {
 
 div.message-container-agent div.message-container a {
     font-weight: normal !important;
-    color: #00AAFF !important
+    color: #288DC1 !important
 }
 
 div.message-container-client div.message-container {
-    background-color: #00AAFF !important;
+    background-color: #288DC1 !important;
     color: #fff !important;
     box-shadow: 0 1px 0 #0088CC !important
 }
@@ -489,7 +489,7 @@ div.typing {
 
 #conversation-page #send-button {
     background: transparent !important;
-    color: #00AAFF !important
+    color: #288DC1 !important
 }
 
 #conversation-page #send-button:focus:not(disabled) {
@@ -518,7 +518,7 @@ div.typing {
 }
 
 .provider-nine {
-    color: #00AAFF !important;
+    color: #288DC1 !important;
     font-weight: bold !important
 }
 
@@ -532,7 +532,7 @@ div.typing {
 
 #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item {
     background: white !important;
-    color: #00AAFF !important
+    color: #288DC1 !important
 }
 
 #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item div.vivr-transfer-name {
@@ -564,7 +564,7 @@ div.typing {
 }
 
 .hover-allowed #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item:hover {
-    background: #00AAFF !important;
+    background: #288DC1 !important;
     color: white !important
 }
 
