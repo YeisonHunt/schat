@@ -296,7 +296,7 @@ body {
 
 .ui-header {
     border-width: 0 !important;
-    background-color: #292F33 !important
+    background-color: #00AAFF  !important
 }
 
 h1.ui-title {
@@ -601,8 +601,8 @@ div.typing {
 
 
 
-#five9-minimize-button.five9-chat-button {
-    background: #7AC23A !important;
+#five9-minimize-button .five9-icon {
+    background-image: url('https://i.ibb.co/cwKXP5g/icono-5.png') !important;
    
 }
 
