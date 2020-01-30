@@ -623,7 +623,7 @@ div.typing {
     cursor: pointer;
 }
 
-.provider, .provider:hover, .provider:focus, .provider-text {
+/*.provider, .provider:hover, .provider:focus, .provider-text {
     cursor: default !important;
     display: none !important;
-}
+}*/
