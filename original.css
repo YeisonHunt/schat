@@ -595,3 +595,10 @@ div.typing {
 .hover-allowed #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item:hover div.channel-video {
     background-image: url("../../images/channels/channel-video-hover-default.png")
 }
+
+
+/* Custom Siigo Desing */
+
+#five9-minimize-button {
+    background: linear-gradient(#00AAFF,#0088CC) !important;
+}
