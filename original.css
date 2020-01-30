@@ -299,6 +299,10 @@ body {
     background-color: #00AAFF  !important
 }
 
+.ui-header > .ui-logo > img {
+    margin-top:3px !important;
+}
+
 h1.ui-title {
     background: none;
     color: #fff !important
